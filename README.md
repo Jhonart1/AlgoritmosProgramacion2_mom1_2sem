@@ -1,0 +1,2 @@
+# AlgoritmosProgramacion2_mom1_2sem
+Tarea contextualizacion momento 1segundo semestre algoritmos y programacion2
